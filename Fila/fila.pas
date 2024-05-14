@@ -37,5 +37,5 @@ begin
 end.
 
 //  cria uma fila de 10 nós
-//  cada nó contém um número inteiro de 1 a 10.
-//  o programa então percorre a fila e imprime o valor de cada nó. 
+//  cada nó contém um número inteiro de 1 a 10
+//  o programa então percorre a fila e imprime o valor de cada nó
